@@ -1,0 +1,17 @@
+{
+  "name": "pure-tables",
+  "repo": "njpatel/pure-tables",
+  "description": "A small CSS module for responsive tables that you can use in every web project. http://purecss.io/tables",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "table",
+    "tables",
+    "css",
+    "yui"
+  ],
+  "license": "BSD",
+  "styles": [
+    "tables.css"
+  ]
+}
