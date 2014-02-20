@@ -1,0 +1,17 @@
+{
+  "name": "njpatel-pure-tables",
+  "description": "A small CSS module for that you can use in every web project. http://purecss.io/tables",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "table",
+    "tables",
+    "css",
+    "yui"
+  ],
+  "styles": [
+    "tables.css"
+  ],
+  "dependencies": {},
+  "license": "BSD"
+}
